@@ -1,0 +1,7 @@
+web:
+  lastfm:
+    url: http://ws.audioscrobbler.com/2.0/
+    apikey: 8750534ffaeb752d052eeafe0281cb70
+  musixmatch:
+    url: https://api.musixmatch.com/ws/1.1//matcher.lyrics.get
+    apikey: 4b3bc213809942c6c7d5cbe48656eab0
